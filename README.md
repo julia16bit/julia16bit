@@ -1,16 +1,46 @@
-## Hi there 👋
+# ​Júlia Machado! 👾
 
-<!--
-**julia16bit/julia16bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+const developer = {
+  name: "Júlia Valentine Machado",
+  role: "Software Engineer",
+  education: [
+    "Systems Development",
+    "Computer Science"
+  ],
+  interests: [
+    "Back-End Development", 
+    "Full-Stack Development", 
+    "UI/UX Design"
+  ],
+  objectives: [
+    "New Projects", 
+    "Continuous Learning"
+  ],
+  code: (message) => console.log(message)
+};
 
-Here are some ideas to get you started:
+const greetingMessage = "Hello World!";
+developer.code(greetingMessage);
+```
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ ɪ ᴜꜱᴇ
+![HTML5](https://img.shields.io/badge/HTML5-282C34?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-282C34?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-282C34?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-282C34?style=for-the-badge&logo=php&logoColor=777BB4)
+![Node.js](https://img.shields.io/badge/Node.js-282C34?style=for-the-badge&logo=node.js&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-282C34?style=for-the-badge&logo=python&logoColor=3776AB)
+![jQuery](https://img.shields.io/badge/jquery-282C34?style=for-the-badge&logo=jquery&logoColor=0769AD) 
+![Django](https://img.shields.io/badge/django-282C34?style=for-the-badge&logo=django&logoColor=092E20) 
+![Figma](https://img.shields.io/badge/figma-282C34?style=for-the-badge&logo=figma&logoColor=F24E1E) 
+
+***
+
+### 🙇🏻‍♀️ ᴘʀᴏꜰɪʟᴇ ꜱᴛᴀᴛꜱ
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=julia16bit&count_private=true&token=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&show_icons=true&theme=one_dark_pro&count_private=true&card_width=400&hide_border=true" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia16bit&count_private=true&layout=compact&theme=one_dark_pro&card_width=400&hide_border=true" width="400px">
+</p>
+
