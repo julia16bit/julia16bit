@@ -26,15 +26,17 @@ developer.code(greetingMessage);
 ***
 
 ### 💻 ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ ɪ ᴜꜱᴇ
+
+![Python](https://img.shields.io/badge/Python-282C34?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-282C34?style=for-the-badge&logo=java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/JavaScript-282C34?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Django](https://img.shields.io/badge/Django-282C34?style=for-the-badge&logo=django&logoColor=092E20)
+![Node.js](https://img.shields.io/badge/Node.js-282C34?style=for-the-badge&logo=node.js&logoColor=339933)
+![Figma](https://img.shields.io/badge/Figma-282C34?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![HTML5](https://img.shields.io/badge/HTML5-282C34?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-282C34?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-282C34?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-282C34?style=for-the-badge&logo=php&logoColor=777BB4)
-![Node.js](https://img.shields.io/badge/Node.js-282C34?style=for-the-badge&logo=node.js&logoColor=339933)
-![Python](https://img.shields.io/badge/Python-282C34?style=for-the-badge&logo=python&logoColor=3776AB)
-![jQuery](https://img.shields.io/badge/jquery-282C34?style=for-the-badge&logo=jquery&logoColor=0769AD) 
-![Django](https://img.shields.io/badge/django-282C34?style=for-the-badge&logo=django&logoColor=092E20) 
-![Figma](https://img.shields.io/badge/figma-282C34?style=for-the-badge&logo=figma&logoColor=F24E1E) 
+![jQuery](https://img.shields.io/badge/jQuery-282C34?style=for-the-badge&logo=jquery&logoColor=0769AD)
 
 ***
 
