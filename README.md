@@ -32,13 +32,14 @@ public class Developer {
 ```
 
 <p align="center"> 
+    <br>
     <img align='right' width="500" src="https://i.pinimg.com/736x/76/3e/b1/763eb16e7d2ed6573db9e8356cab9b37.jpg" alt="ilustração do status do github"> 
 </p>
 
 ### Technologies I use ‧₊˚⊹﹕✧˚₊ 
-
 <!-- <img src="https://img.shields.io/static/v1?label=Overview&message=julia16bit&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"> -->
 <p align="center"> 
+    <br>
   <img alt="Java" src="https://img.shields.io/badge/Java-2E3849?style=for-the-badge&logo=openjdk&logoColor=white&color=2E3849&labelColor=2E3849" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-2E3849?style=for-the-badge&logo=spring-boot&logoColor=white&color=2E3849&labelColor=2E3849" /> 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2E3849?style=for-the-badge&logo=javascript&logoColor=white&color=2E3849&labelColor=2E3849" /> 
@@ -57,6 +58,7 @@ public class Developer {
 
 ### My GitHub Stats ‧₊˚⊹﹕✧˚₊ 
 <p align="center">
+    <br>
   <img src="https://github-readme-stats.vercel.app/api?username=julia16bit&show_icons=true&theme=nord&hide_border=true" width="400px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia16bit&layout=compact&theme=nord&hide_border=true">
 </p>
