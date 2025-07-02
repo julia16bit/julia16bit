@@ -31,8 +31,9 @@ public class Developer {
 }
 ```
 
-
-<img align='right' width="500" src="https://i.pinimg.com/736x/76/3e/b1/763eb16e7d2ed6573db9e8356cab9b37.jpg" alt="ilustração do status do github"> 
+<p align="center"> 
+    <img align='right' width="500" src="https://i.pinimg.com/736x/76/3e/b1/763eb16e7d2ed6573db9e8356cab9b37.jpg" alt="ilustração do status do github"> 
+</p>
 
 ### Technologies I use ‧₊˚⊹﹕✧˚₊ 
 
