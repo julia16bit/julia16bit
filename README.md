@@ -42,7 +42,6 @@ public class Developer {
   <img alt="Java" src="https://img.shields.io/badge/Java-2E3849?style=for-the-badge&logo=openjdk&logoColor=white&color=2E3849&labelColor=2E3849" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-2E3849?style=for-the-badge&logo=spring-boot&logoColor=white&color=2E3849&labelColor=2E3849" /> 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2E3849?style=for-the-badge&logo=javascript&logoColor=white&color=2E3849&labelColor=2E3849" /> 
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-2E3849?style=for-the-badge&logo=html5&logoColor=white&color=2E3849&labelColor=2E3849" /> 
   <img alt="Python" src="https://img.shields.io/badge/Python-2E3849?style=for-the-badge&logo=python&logoColor=white&color=2E3849&labelColor=2E3849" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-2E3849?style=for-the-badge&logo=php&logoColor=white&color=2E3849&labelColor=2E3849" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-2E3849?style=for-the-badge&logo=nodedotjs&logoColor=white&color=2E3849&labelColor=2E3849" />
