@@ -31,9 +31,9 @@ public class Developer {
 }
 ```
 
-<p align="center"> 
+<!-- <p align="center"> 
     <img align='right' width="500" src="https://i.pinimg.com/736x/76/3e/b1/763eb16e7d2ed6573db9e8356cab9b37.jpg" alt="ilustração do status do github"> 
-</p>
+</p> -->
 
 ### Technologies I use ‧₊˚⊹﹕✧˚₊ 
 <!-- <img src="https://img.shields.io/static/v1?label=Overview&message=julia16bit&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"> -->
