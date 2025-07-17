@@ -1,4 +1,4 @@
-### Hello World, I'm Júlia Machado! 💾
+### Hello World, I'm Júlia Machado!
 
 ```
 public class Developer {
@@ -35,16 +35,17 @@ public class Developer {
     <img align='right' width="500" src="https://i.pinimg.com/736x/76/3e/b1/763eb16e7d2ed6573db9e8356cab9b37.jpg" alt="ilustração do status do github"> 
 </p> -->
 
-### Technologies I use ‧₊˚⊹﹕✧˚₊ 
+### Technologies I Use
 <!-- <img src="https://img.shields.io/static/v1?label=Overview&message=julia16bit&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"> -->
-<p align="center"> 
+<p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-2E3849?style=for-the-badge&logo=openjdk&logoColor=white&color=2E3849&labelColor=2E3849" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-2E3849?style=for-the-badge&logo=spring-boot&logoColor=white&color=2E3849&labelColor=2E3849" /> 
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2E3849?style=for-the-badge&logo=javascript&logoColor=white&color=2E3849&labelColor=2E3849" /> 
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-2E3849?style=for-the-badge&logo=spring-boot&logoColor=white&color=2E3849&labelColor=2E3849" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2E3849?style=for-the-badge&logo=javascript&logoColor=white&color=2E3849&labelColor=2E3849" />
   <img alt="Python" src="https://img.shields.io/badge/Python-2E3849?style=for-the-badge&logo=python&logoColor=white&color=2E3849&labelColor=2E3849" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-2E3849?style=for-the-badge&logo=php&logoColor=white&color=2E3849&labelColor=2E3849" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-2E3849?style=for-the-badge&logo=nodedotjs&logoColor=white&color=2E3849&labelColor=2E3849" />
-  <img alt="React" src="https://img.shields.io/badge/React-2E3849?style=for-the-badge&logo=react&logoColor=white&color=2E3849&labelColor=2E3849" /> 
+  <img alt="React" src="https://img.shields.io/badge/React-2E3849?style=for-the-badge&logo=react&logoColor=white&color=2E3849&labelColor=2E3849" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2E3849?style=for-the-badge&logo=typescript&logoColor=white&color=2E3849&labelColor=2E3849" />
 </p>
 
 <!--  ### Contact Me 
@@ -54,9 +55,9 @@ public class Developer {
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> 
 </p> -->
 
-### My GitHub Stats ‧₊˚⊹﹕✧˚₊ 
+### My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=julia16bit&show_icons=true&theme=nord&hide_border=true" width="400px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia16bit&layout=compact&theme=nord&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia16bit&layout=compact&theme=nord&hide_border=true&hide=html,css">
 </p>
 
