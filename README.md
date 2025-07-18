@@ -44,7 +44,7 @@ public class Developer {
   <img alt="Python" src="https://img.shields.io/badge/Python-2E3849?style=for-the-badge&logo=python&logoColor=white&color=2E3849&labelColor=2E3849" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-2E3849?style=for-the-badge&logo=php&logoColor=white&color=2E3849&labelColor=2E3849" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-2E3849?style=for-the-badge&logo=nodedotjs&logoColor=white&color=2E3849&labelColor=2E3849" />
-  <img alt="React" src="https://img.shields.io/badge/React-2E3849?style=for-the-badge&logo=react&logoColor=white&color=2E3849&labelColor=2E3849" />
+<!--  <img alt="React" src="https://img.shields.io/badge/React-2E3849?style=for-the-badge&logo=react&logoColor=white&color=2E3849&labelColor=2E3849" /> -->
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2E3849?style=for-the-badge&logo=typescript&logoColor=white&color=2E3849&labelColor=2E3849" />
 </p>
 
